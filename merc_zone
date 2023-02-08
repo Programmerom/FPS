@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<iframe>src = "https://www.merc.zone/"</iframe>
+<iframe src = "https://www.merc.zone/"></iframe>
 </body>
 
 </html>
